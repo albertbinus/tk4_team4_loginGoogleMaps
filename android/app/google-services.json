@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "840673102740",
+    "project_id": "surveypemilu-8a577",
+    "storage_bucket": "surveypemilu-8a577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840673102740:android:ebbfd9600151e5eb769d81",
+        "android_client_info": {
+          "package_name": "com.iotkece.pemilu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840673102740-v175mha09gtis75fcq4logc63lubnt1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kjFZqn_h7uJTxKN2t1WkF-qCpUFXdCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840673102740-v175mha09gtis75fcq4logc63lubnt1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "840673102740-cgm5ntmi1v2hjva40ivn3k63iv7368bc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iotkece.pemilu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840673102740:android:c9c789630cba7ea5769d81",
+        "android_client_info": {
+          "package_name": "com.iotkece.pml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840673102740-uu427kpsv4ns3tgq25p5td1on1l2c82s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iotkece.pml",
+            "certificate_hash": "5a56db1cc0efdec5f983710def16ff5e1a667064"
+          }
+        },
+        {
+          "client_id": "840673102740-v175mha09gtis75fcq4logc63lubnt1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kjFZqn_h7uJTxKN2t1WkF-qCpUFXdCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840673102740-v175mha09gtis75fcq4logc63lubnt1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "840673102740-cgm5ntmi1v2hjva40ivn3k63iv7368bc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iotkece.pemilu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
